@@ -22,6 +22,12 @@ avec une requête de type `http`
 
 `mapView.dart` carte de géolocalisation et calcul de distance.
 
-# Outils
+## Outils
 
-- 
+- Ressources de open data de la MEL
+- Utilisation des SharedPreferences pour stocker les favoris
+- API Google MAPS pour les données GPS
+
+## Pistes d'amélioration
+
+Pouvoir choisir un lieu autre que son emplacement actuelle afin de trouver des parkings proches.
